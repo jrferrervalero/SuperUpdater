@@ -1,0 +1,14 @@
+D:\VisualStudio\SuperUpdater\SuperUpdater\EXE\SuperUpdater.exe
+D:\VisualStudio\SuperUpdater\SuperUpdater\EXE\SuperUpdater.pdb
+D:\VisualStudio\SuperUpdater\SuperUpdater\EXE\SuperUpdater.xml
+D:\VisualStudio\SuperUpdater\SuperUpdater\obj\Debug\SuperUpdater.vbproj.AssemblyReference.cache
+D:\VisualStudio\SuperUpdater\SuperUpdater\obj\Debug\SuperUpdater.Resources.resources
+D:\VisualStudio\SuperUpdater\SuperUpdater\obj\Debug\SuperUpdater.vbproj.GenerateResource.cache
+D:\VisualStudio\SuperUpdater\SuperUpdater\obj\Debug\SuperUpdater.vbproj.CoreCompileInputs.cache
+D:\VisualStudio\SuperUpdater\SuperUpdater\obj\Debug\SuperUpdater.exe
+D:\VisualStudio\SuperUpdater\SuperUpdater\obj\Debug\SuperUpdater.xml
+D:\VisualStudio\SuperUpdater\SuperUpdater\obj\Debug\SuperUpdater.pdb
+D:\VisualStudio\SuperUpdater\SuperUpdater\Compiled\SuperUpdater.exe
+D:\VisualStudio\SuperUpdater\SuperUpdater\Compiled\SuperUpdater.pdb
+D:\VisualStudio\SuperUpdater\SuperUpdater\Compiled\SuperUpdater.xml
+D:\VisualStudio\SuperUpdater\SuperUpdater\Compiled\SuperUpdater.exe.config
